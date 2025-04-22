@@ -104,11 +104,11 @@ const socket = io('http://192.168.94.235:3000');
 
 ## 🖼 UI Preview (Optional)
 
-> _(Add screenshots here if you have them, e.g.,![image](https://github.com/user-attachments/assets/d059f412-4401-4275-9149-9f4d376c868e)
- login screen, chat view, etc.)_
-![image](https://github.com/user-attachments/assets/cba2ae2c-1eb1-4f99-9735-6e76d1953a7c)
->
-> ![image](https://github.com/user-attachments/assets/baaa0bd7-1adb-434a-9a91-874ac3c02562)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/d059f412-4401-4275-9149-9f4d376c868e" alt="Login Screen" width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/cba2ae2c-1eb1-4f99-9735-6e76d1953a7c" alt="Chat View 1" width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/baaa0bd7-1adb-434a-9a91-874ac3c02562" alt="Chat View 2" width="200" height="400"/>
+</div>
 
 
 ---
